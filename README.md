@@ -1,1 +1,1 @@
-# lazymonday.github.io
+# Lazy Monday
